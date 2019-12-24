@@ -1,0 +1,10 @@
+Exercise Objective(s): Overloading
+
+Exercise: Create a class called Calculator which has 4 different methods add, diff, mul and div that accept two numbers as parameters. Overload the methods such that the parameters can be of the following pattern. 
+a)	Both are of int data type. 
+b)	Both are of double data type. 
+c)	First parameter is of int data type and second parameter is of double data type. 
+d)	First parameter is of double data type and second parameter is of int data type
+     Create an object to access these methods and invoke these methods with different type of numbers and display the result in the corresponding methods. 
+
+Recommended duration: 20 Mins
